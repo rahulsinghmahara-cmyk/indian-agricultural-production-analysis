@@ -73,8 +73,10 @@ The Excel dashboard contains:
 - Kharif vs Rabi production comparison
 - KPI cards for overall growth
 - Key analytical insights
+- ![Dashboard](dashboard.png)
 
 ## 🔍 Key Insights
+![Key Insights](key-insights.png)
 
 - Overall foodgrain production increased by **33.28%** between 2005 and 2014.
 - Rice production increased by **27.86%** during the same period.
